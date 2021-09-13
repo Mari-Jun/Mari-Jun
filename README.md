@@ -8,6 +8,9 @@ I am aiming to be a client programmer, and I am especially interested in engine 
 ### :school: School           
 KOREA POLYTECHNIC UNIVERSITY - GAME ENGINEERING 3nd grade
 
+### ✈️ Language
+Japanese : JLPT N2
+
 ### :bulb: Skill        
 C, C++, WinAPI, OpenGL, Python, Unreal Engine(BP, C++)
 
