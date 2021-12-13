@@ -12,7 +12,7 @@ KOREA POLYTECHNIC UNIVERSITY - GAME ENGINEERING 3nd grade
 Japanese : JLPT N2
 
 ### :bulb: Skill        
-C, C++, WinAPI, OpenGL, Python, Unreal Engine(BP, C++)
+C, C++, WinAPI, OpenGL, Python, Unreal Engine(BP, C++), DirectX12
 
 ### :100: Awards
 2020 KPU Software Competition : 1st         
