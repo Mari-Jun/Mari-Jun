@@ -1,6 +1,6 @@
 ### Hello
 
-### 💬 About Me
+### 💬 Who Am I
 Good day!       
 I am JunHyeok Choi who is interested in Game Developement       
 I am aiming to be a client programmer, and I am especially interested in engine and rendering.          
@@ -17,7 +17,13 @@ C, C++, WinAPI, OpenGL, Python, Unreal Engine4(BP, C++), Unreal Engine5(BP, C++)
 ### :100: Awards
 2020 KPU Software Competition : 1st         
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mari-Jun)](https://github.com/anuraghazra/github-readme-stats)
+### :star: Stat
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mari-Jun&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mari-Jun&layout=compact&theme=merko)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jurracdino)](https://solved.ac/jurracdino/)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=jurracdino&theme=dark)](https://solved.ac/profile/jurracdino)
 
 <!--
 **Mari-Jun/Mari-Jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
