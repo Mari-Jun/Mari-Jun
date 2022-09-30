@@ -25,6 +25,33 @@ C, C++, WinAPI, OpenGL, Python, Unreal Engine4(BP, C++), Unreal Engine5(BP, C++)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jurracdino)](https://solved.ac/jurracdino/)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=jurracdino&theme=dark)](https://solved.ac/profile/jurracdino)
 
+### :file_folder: Individual Project
+#### DirectX
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Jun&repo=DX12_Framework)](https://github.com/Mari-Jun/DX12_Framework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Jun&repo=Seol_Engine_Prototype)](https://github.com/Mari-Jun/Seol_Engine_Prototype)
+
+#### Unreal Engine
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Jun&repo=Defense_Game)](https://github.com/Mari-Jun/Defense_Game)
+
+#### Win API
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Jun&repo=Win32-API-Project)](https://github.com/Mari-Jun/Win32-API-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Jun&repo=DarkNess_Room)](https://github.com/Mari-Jun/DarkNess_Room)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Jun&repo=Tetris)](https://github.com/Mari-Jun/Tetris)
+Tetris
+
+#### Python
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Jun&repo=2-2-2DGP)](https://github.com/Mari-Jun/2-2-2DGP)
+
+
+### :file_folder: Team Project
+
+#### DirectX
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PYC-Graduation-Project&repo=Revive)](https://github.com/PYC-Graduation-Project/Revive)
+
+#### Open GL
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Jun&repo=2020_OPEN_GL-Term-Project)](https://github.com/2020_OPEN_GL-Term-Project)
+
+
 <!--
 **Mari-Jun/Mari-Jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
