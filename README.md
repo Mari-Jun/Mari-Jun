@@ -37,7 +37,6 @@ C, C++, WinAPI, OpenGL, Python, Unreal Engine4(BP, C++), Unreal Engine5(BP, C++)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Jun&repo=Win32-API-Project)](https://github.com/Mari-Jun/Win32-API-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Jun&repo=DarkNess_Room)](https://github.com/Mari-Jun/DarkNess_Room)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Jun&repo=Tetris)](https://github.com/Mari-Jun/Tetris)
-Tetris
 
 #### Python
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Jun&repo=2-2-2DGP)](https://github.com/Mari-Jun/2-2-2DGP)
