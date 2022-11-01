@@ -13,7 +13,9 @@ TECH UNIVERSITY OF KOREA - GAME ENGINEERING senior
 Japanese : JLPT N2
 
 ### :bulb: Skill        
-C, C++, WinAPI, OpenGL, Python, Unreal Engine4(BP, C++), Unreal Engine5(BP, C++), DirectX12
+C, C++, Python
+WinAPI, OpenGL, DirectX12
+Unreal Engine4(BP, C++), Unreal Engine5(BP, C++)
 
 ### :100: Awards
 2020 KPU Software Competition : 1st         
