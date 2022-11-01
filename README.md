@@ -3,7 +3,7 @@
 ### 💬 Who Am I
 Good day!       
 I am JunHyeok Choi who is interested in Game Developement       
-I am aiming to be a client programmer, and I am especially interested in engine and rendering.          
+I am aiming to be a game client programmer.          
 
 ### :school: School           
 TECH UNIVERSITY OF KOREA - GAME ENGINEERING senior
