@@ -14,7 +14,9 @@ Japanese : JLPT N2
 
 ### :bulb: Skill        
 C, C++, Python
+
 WinAPI, OpenGL, DirectX12
+
 Unreal Engine4(BP, C++), Unreal Engine5(BP, C++)
 
 ### :100: Awards
